@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Component renders main components 1`] = `
+<div>
+  <div
+    class="sc-gKAaRy jzCDEm"
+    data-testid="main-details"
+  >
+    <div
+      class="sc-hKFxyN hpLtbE"
+    >
+      <div
+        class="sc-dlnjwi ZrTjy"
+      >
+        <label
+          class="sc-jSFjdj czJmOl"
+        >
+          Search by Name 
+        </label>
+        <div
+          class="sc-hKFxyN hpLtbE"
+        >
+          <input
+            class="sc-eCApnc ejtsyk"
+            type="text"
+          />
+        </div>
+      </div>
+      <div
+        class="sc-dlnjwi ZrTjy"
+      >
+        <label
+          class="sc-jSFjdj czJmOl"
+        >
+          Search by Number 
+        </label>
+        <div
+          class="sc-hKFxyN hpLtbE"
+        >
+          <input
+            class="sc-eCApnc ejtsyk"
+            type="number"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

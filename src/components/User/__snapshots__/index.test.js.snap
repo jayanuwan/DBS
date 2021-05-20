@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user details renders user Details 1`] = `
+<div
+  class="sc-dlnjwi ZrTjy"
+  data-testid="user-details"
+>
+  <div
+    class="sc-bdnxRM AFMeB"
+  >
+    <div
+      class="sc-gtsrHT dJJWhK"
+    />
+    <div
+      class="sc-gtsrHT dJJWhK"
+    >
+      <a
+        href="mailto:"
+      />
+    </div>
+    <div
+      class="sc-gtsrHT dJJWhK"
+    >
+      <a
+        href="tel:"
+      />
+    </div>
+    <div
+      class="sc-gtsrHT dJJWhK"
+    />
+  </div>
+</div>
+`;
